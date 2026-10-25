@@ -173,10 +173,3 @@ I tested connectivity between all three LANs with `ping`, which confirmed that t
 
 - Cisco Packet Tracer
 
----
-
-<p align="center">
-  📄 <b>Download PDF Documentation:</b><br>
-  [ EN ] <a href="https://github.com/radu-hatos/Network_Infrastructure_and_Secure_Remote_Access_Project/blob/main/Network_Infrastructure_and_Secure_Remote_Access_Project.pdf"><b>[ English Version PDF ]</b></a><br>
-  [ ES ] <a href="https://github.com/radu-hatos/Network_Infrastructure_and_Secure_Remote_Access_Project/blob/main/Proyecto_Infraestructura_de_Red_y_Acceso_Remoto_Seguro.pdf"><b>[ Versión en Español PDF ]</b></a>
-</p>
