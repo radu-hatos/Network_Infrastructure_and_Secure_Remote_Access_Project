@@ -1,7 +1,7 @@
 <h1 align="center">Network Infrastructure and Secure Remote Access Project</h1>
 
 <p align="center">
-  <b>[ EN ]</b> Static Routing, Network Services, and SSH/Telnet Administration Across Three LANs
+  <b></b> Static Routing, Network Services, and SSH/Telnet Administration Across Three LANs
 </p>
 
 <p align="center">
