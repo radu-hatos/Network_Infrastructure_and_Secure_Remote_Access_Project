@@ -173,3 +173,11 @@ I tested connectivity between all three LANs with `ping`, which confirmed that t
 
 - Cisco Packet Tracer
 
+---
+
+## 7. Cisco Packet Tracer Lab File
+
+<p align="center">
+   <b>Direct Download Lab File:</b><br>
+  <a href="https://github.com/radu-hatos/Network_Infrastructure_and_Secure_Remote_Access_Project/blob/main/Network%20Infrastructure%20and%20Secure%20Remote%20Access%20Project.pkt"><b>[ Download .pkt Lab File ]</b></a>
+</p>
