@@ -179,10 +179,5 @@ I tested connectivity between all three LANs with `ping`, which confirmed that t
 
 <p align="center">
     <b>Direct Download Lab File:</b><br>
-    <a href="## 7. Cisco Packet Tracer Lab File
-
-<p align="center">
-    <b>Direct Download Lab File:</b><br>
-    <a href="https://raw.githubusercontent.com/radu-hatos/Network_Infrastructure_and_Secure_Remote_Access_Project/main/Network%20Infrastructure%20and%20Secure%20Remote%20Access_Project.pkt" download><b>[ Download .pkt Lab File ]</b></a>
-</p>" download><b>[ Download .pkt Lab File ]</b></a>
+    <a href="https://github.com/radu-hatos/Network_Infrastructure_and_Secure_Remote_Access_Project/blob/main/Network%20Infrastructure%20and%20Secure%20Remote%20Access%20Project.pkt" download><b>[ Download .pkt Lab File ]</b></a>
 </p>
